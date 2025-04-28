@@ -1,16 +1,27 @@
-## Hi there 👋
+# NGUYEN PHUONG NGHI
+**🎯 Aspiring Data Analyst | SQL | Excel | Power BI |**
 
-!--
-**NguyenPhuongNghi/NguyenPhuongNghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 About Me**
+- A passionate learner with business background transitioning into Data Analytics.
 
-Here are some ideas to get you started:
+- Love working with data storytelling, data visualization, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+- Familiar with tools like SQL (BigQuery, PostgreSQL, SQL Server), Excel, Power BI.
+
+- Always looking to learn, explore, and grow in the data analytics field
+  
+**🔥 Technical Skills**
+- Languages: SQL (BigQuery, PostgreSQL, SQL Server)
+  
+- Data Visualization: Power BI, Excel (Pivot Table, Dashboard)
+
+**📂 Featured Projects**
+ - [Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
+
+ - [Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+
+**🎓 Certifications**
+- SQL: HackerRank (Basic & Intermediate)
+- SQL Datacamp Courses
+- Microsoft Office Specialist (MOS)
+- IELTS Certificate (Band 7.5)
