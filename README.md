@@ -23,5 +23,6 @@
 **🎓 Certifications**
 - SQL: HackerRank (Basic & Intermediate)
 - SQL Datacamp Courses
+- Power BI Datacamp Courses
 - Microsoft Office Specialist (MOS)
 - IELTS Certificate (Band 7.5)
