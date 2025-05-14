@@ -16,9 +16,14 @@
 - Data Visualization: Power BI, Excel (Pivot Table, Dashboard)
 
 **📂 Featured Projects**
- - [Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
 
- - [Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+- [(Power BI) Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+  
+- [(Power BI) Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
+
+- [(SQL) Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+  
+- [(Excel) Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
 
 **🎓 Certifications**
 - SQL: HackerRank Certificate (Basic & Intermediate)
