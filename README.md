@@ -21,7 +21,7 @@
  - [Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
 
 **🎓 Certifications**
-- SQL: HackerRank (Basic & Intermediate)
+- SQL: HackerRank Certificate (Basic & Intermediate)
 - SQL Datacamp Courses
 - Power BI Datacamp Courses
 - Microsoft Office Specialist (MOS)
