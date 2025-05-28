@@ -17,7 +17,7 @@
 
 ## 📂 Featured Projects:
 
-:one: "[Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+:one: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
   
 :two: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
 
