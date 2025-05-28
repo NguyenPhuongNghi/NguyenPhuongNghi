@@ -11,25 +11,25 @@
 - Always looking to learn, explore, and grow in the data analytics field
   
 ## 🔥 Technical Skills:
-- Languages: SQL (BigQuery, PostgreSQL, SQL Server)
+- Query Languages: SQL (BigQuery, PostgreSQL, SQL Server)
   
-- Data Visualization: Power BI, Excel (Pivot Table, Dashboard)
+- Data Visualization: Microsoft Power BI , Excel 
 
 ## 📂 Featured Projects:
 
-- [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+:one: "[Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
   
-- [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
+:two: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
 
-- [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+:three: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
   
-- [Excel | Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
+:four: [Excel | Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
 
 ## 🎓 Education & Certifications:
 ### Education:
-- Banking University of HCM City | 2020 - 2024
-- Major: Business Administration
-- GPA: 3.42/4
+- **University:** Banking University of HCM City | 2020 - 2024
+- **Major:** Business Administration
+- **GPA:** 3.42/4
 ### Certification:
 - HackerRank: SQL Certificate (Basic & Intermediate)
 - Datacamp: SQL Courses
