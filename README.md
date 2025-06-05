@@ -16,14 +16,15 @@
 - Data Visualization: Microsoft Power BI , Excel 
 
 ## 📂 Featured Projects:
+:one: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
 
-:one: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
-  
 :two: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
 
-:three: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+:three: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+
+:four: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
   
-:four: [Excel | Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
+:five: [Excel | Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
 
 ## 🎓 Education & Certifications:
 ### Education:
