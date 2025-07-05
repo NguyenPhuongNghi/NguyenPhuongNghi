@@ -16,15 +16,17 @@
 - Data Visualization: Microsoft Power BI , Excel 
 
 ## 📂 Featured Projects:
-:one: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
+:one: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
 
-:two: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
+:two: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
 
-:three: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+:three: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
 
-:four: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+:four: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+
+:five: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
   
-:five: [Excel | Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
+:six: [Excel | Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
 
 ## 🎓 Education & Certifications:
 ### Education:
