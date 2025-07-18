@@ -16,17 +16,19 @@
 - Data Visualization: Microsoft Power BI , Excel 
 
 ## 📂 Featured Projects:
-:one: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
+:one: [Power BI | Credit Default Risk Analysis Dashboard](https://github.com/NguyenPhuongNghi/Credit-Default-Analysis)
 
-:two: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
+:two: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
 
-:three: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
+:three: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
 
-:four: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+:four: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
 
-:five: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+:five: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+
+:six: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
   
-:six: [Excel | Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
+:seven: [Excel | Sales & delivery performance dashboard](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis)
 
 ## 🎓 Education & Certifications:
 ### Education:
