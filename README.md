@@ -16,17 +16,19 @@
 - Data Visualization: Microsoft Power BI , Excel 
 
 ## 📂 Featured Projects:
-:one: [Power BI | Credit Default Risk Analysis Dashboard](https://github.com/NguyenPhuongNghi/Credit-Default-Analysis)
+:one: [Python | RFM Customer Segmentation](https://github.com/NguyenPhuongNghi/RFM-Analysis)
 
-:two: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
+:two: [Power BI | Credit Default Risk Analysis Dashboard](https://github.com/NguyenPhuongNghi/Credit-Default-Analysis)
 
-:three: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
+:three: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
 
-:four: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
+:four: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
 
-:five: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+:five: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
 
-:six: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+:six: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+
+:seven: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
 
 ## 🎓 Education & Certifications:
 ### Education:
