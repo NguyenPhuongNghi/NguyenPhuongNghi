@@ -13,7 +13,9 @@
 ## 🔥 Technical Skills:
 - Query Languages: SQL (BigQuery, PostgreSQL, SQL Server)
   
-- Data Visualization: Microsoft Power BI , Excel 
+- Data Visualization: Microsoft Power BI , Excel
+
+- Programming Language: Python
 
 ## 📂 Featured Projects:
 :one: [Python | RFM Customer Segmentation](https://github.com/NguyenPhuongNghi/RFM-Analysis)
