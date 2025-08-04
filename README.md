@@ -18,19 +18,21 @@
 - Programming Language: Python
 
 ## 📂 Featured Projects:
-:one: [Python | RFM Customer Segmentation](https://github.com/NguyenPhuongNghi/RFM-Analysis)
+:one: [Machine Learning | Build ML model to predict credit card fraud](https://github.com/NguyenPhuongNghi/Predict-credit-card-fraud)
 
-:two: [Power BI | Credit Default Risk Analysis Dashboard](https://github.com/NguyenPhuongNghi/Credit-Default-Analysis)
+:two: [Python | RFM Customer Segmentation](https://github.com/NguyenPhuongNghi/RFM-Analysis)
 
-:three: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
+:three: [Power BI | Credit Default Risk Analysis Dashboard](https://github.com/NguyenPhuongNghi/Credit-Default-Analysis)
 
-:four: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
+:four: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
 
-:five: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
+:five: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
 
-:six: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+:six: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
 
-:seven: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+:seven: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+
+:eight: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
 
 ## 🎓 Education & Certifications:
 ### Education:
