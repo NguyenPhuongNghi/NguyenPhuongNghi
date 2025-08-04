@@ -15,7 +15,7 @@
   
 - Data Visualization: Microsoft Power BI , Excel
 
-- Programming Language: Python
+- Programming Language: Python (pandas, numpy, matplotlib, seaborn, sklearn)
 
 ## 📂 Featured Projects:
 :one: [Machine Learning | Build ML model to predict credit card fraud](https://github.com/NguyenPhuongNghi/Predict-credit-card-fraud)
