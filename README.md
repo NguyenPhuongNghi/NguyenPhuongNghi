@@ -39,7 +39,6 @@
 - **GPA:** 3.42/4
 ### Certification:
 - HackerRank: SQL Certificate (Basic & Intermediate)
-- Datacamp: SQL Courses
-- Datacamp: Power BI Courses
+- Datacamp: SQL Courses, Power BI courses, Python courses
 - IELTS Certificate (Band 7.5)
 - Microsoft Office Specialist (MOS)
