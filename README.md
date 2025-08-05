@@ -20,7 +20,7 @@
 ## 📂 Featured Projects:
 :one: [Machine Learning | Build ML model to predict credit card fraud](https://github.com/NguyenPhuongNghi/Predict-credit-card-fraud)
 
-:two: [A/B Test| Price Framing Effect on Subscription Conversion](https://github.com/NguyenPhuongNghi/A-B-Test-Price-Framing-Effect-on-Subscription-Conversion)
+:two: [A/B Test | Price Framing Effect on Subscription Conversion](https://github.com/NguyenPhuongNghi/A-B-Test-Price-Framing-Effect-on-Subscription-Conversion)
 
 :three: [Python | RFM Customer Segmentation](https://github.com/NguyenPhuongNghi/RFM-Analysis)
 
