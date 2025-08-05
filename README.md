@@ -20,19 +20,21 @@
 ## 📂 Featured Projects:
 :one: [Machine Learning | Build ML model to predict credit card fraud](https://github.com/NguyenPhuongNghi/Predict-credit-card-fraud)
 
-:two: [Python | RFM Customer Segmentation](https://github.com/NguyenPhuongNghi/RFM-Analysis)
+:two: [A/B Test| Price Framing Effect on Subscription Conversion](https://github.com/NguyenPhuongNghi/A-B-Test-Price-Framing-Effect-on-Subscription-Conversion)
 
-:three: [Power BI | Credit Default Risk Analysis Dashboard](https://github.com/NguyenPhuongNghi/Credit-Default-Analysis)
+:three: [Python | RFM Customer Segmentation](https://github.com/NguyenPhuongNghi/RFM-Analysis)
 
-:four: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
+:four: [Power BI | Credit Default Risk Analysis Dashboard](https://github.com/NguyenPhuongNghi/Credit-Default-Analysis)
 
-:five: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
+:five: [Power BI | Inventory Tracking Dashboard](https://github.com/NguyenPhuongNghi/Inventory-Tracking)
 
-:six: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
+:six: [Power BI | Market and product analysis](https://github.com/NguyenPhuongNghi/Market-and-Product-Analysis)
 
-:seven: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+:seven: [Power BI | Customer churn analysis](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis)
 
-:eight: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
+:eight: [Power BI | Marketing campaigns analysis](https://github.com/NguyenPhuongNghi/Marketing-Analysis)
+
+:nine: [SQL | Customer Purchase Behaviors on an E-commerce platform](https://github.com/NguyenPhuongNghi/Customer-Purchase-Behaviors-on-an-E-commerce-platform)
 
 ## 🎓 Education & Certifications:
 ### Education:
