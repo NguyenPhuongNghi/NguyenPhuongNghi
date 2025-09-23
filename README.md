@@ -42,7 +42,8 @@
 - **Major:** Business Administration
 - **GPA:** 3.42/4
 ### Certification:
-- HackerRank: SQL Certificate (Basic & Intermediate)
+- Microsoft PL-300 Certificate
+- HackerRank: SQL Certificate (Advanced)
 - Datacamp: SQL Courses, Power BI courses, Python courses
 - IELTS Certificate (Band 7.5)
 - Microsoft Office Specialist (MOS)
